@@ -1,3 +1,3 @@
 # WasteManagementAndroidApplication
 
-##Flow chart of USER
+## Flow chart of USER
