@@ -6,3 +6,12 @@
 
 ## Flow chart of ADMIN
 ![miniproject2 - page 1](https://user-images.githubusercontent.com/37345220/40544695-d829c34a-6046-11e8-8ccb-73ba3fa78e46.png)
+
+## Welcome Activity
+## Login Activity
+## Registration Activity
+## Select Activity
+## Manualgo Activity
+## Map Activity
+## Check Complaints Activity
+## 
