@@ -1,21 +1,20 @@
+## Description
+Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context.
 
-<!--- Provide a general summary of your changes in the Title above -->
+Fixes # (issue)
 
-## What?
-<!--- Describe what are the changes  -->
+## Changes Made
+Please describe the changes you've made in this branch. Be sure to include any new files, updated code, or modified dependencies.
 
+-
 
-## Why?
-<!--- Describe why the changes has been done -->
+## Screenshots
+Please add screenshots or recordings of your changes if applicable.
 
-
-## Testing
-<!--- Please describe in detail how you tested your changes. -->
-<!--- Include details of your testing environment, tests ran to see how -->
-<!--- your change affects other areas of the code, etc. -->
-Test environment(s):
+-
 
 ## Checklist
+
 <% if (github.head_ref.startsWith('feature/')) { %>
 - [ ] My code follows the code style of this project.
 - [ ] I have updated the documentation accordingly.
@@ -36,4 +35,3 @@ Test environment(s):
 - [ ] I have tested my changes locally before pushing them.
 - [ ] I have checked the branch for conflicts with the main branch.
 <% } %>
-
